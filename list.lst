@@ -1,6 +1,13 @@
-build.nvidia.com
-integrate.api.nvidia.com
 2ip.io
+integrate.api.nvidia.com
+build.nvidia.com
+docs.api.nvidia.com
+ai.api.nvidia.com
+catalog.ngc.nvidia.com
+api.ngc.nvidia.com
+ngc.nvidia.com
+org.ngc.nvidia.com
+nvcr.io
 t.me
 telegram.me
 telegram.org
@@ -12,6 +19,7 @@ telega.one
 telesco.pe
 tx.me
 tg.dev
+oauth.tg.dev
 tdesktop.com
 cdn-telegram.org
 telegram-cdn.org
@@ -26,9 +34,9 @@ api.imem.app
 api.swiftgram.app
 stel.com
 mbrx.app
+api.telegram.org
+core.telegram.org
 web.telegram.org
 k.telegram.org
-core.telegram.org
-webk.telegram.org
 macos.telegram.org
 desktop.telegram.org
